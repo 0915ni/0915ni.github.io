@@ -16,6 +16,15 @@
 最多六個井號
 沒有井號是內文
 
+利用‵‵‵c, 可以把程式碼放上去
+```C
+#include <stdio.h>
+int main()
+{
+  printf("Hello!!!");
+}
+```
+
 [中掛號裡面打連結的標題，後家小括號裡面打網址](https://www.facebook.com/)
 
-![中掛號前面加驚嘆號裡面打圖片的標題，後家小括號裡面打圖片網址](https://storage.inewsdb.com/2020/11/ca19113b-422qqq7nrrr1434196npp6p8n3925on9.jpg)
+![中掛號前面加驚嘆號裡面打圖片的標題，後家小括號裡面打圖片網址](https://i.ytimg.com/vi/sftuDS2Hrvk/maxresdefault.jpg)
